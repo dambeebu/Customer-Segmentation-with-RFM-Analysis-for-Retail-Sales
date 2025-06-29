@@ -73,7 +73,7 @@ This project analyzes an online retail dataset to extract business insights, cle
 Below are the main visualizations generated in this analysis. You can include images (screenshots or saved plots) in your GitHub README by uploading them to your repository and referencing their paths, or by using external image links.
 
 ### 1. Top 10 Products by Quantity Sold
-![Top 10 Products by Quantity Sold](images/top_10_products_quantity.png)
+![Top 10 Products by Quantity Sold](top_10_products_quantity.png)
 *This bar chart shows the products with the highest sales volume. It helps identify your most popular items by quantity.*
 
 ### 2. Top 10 Highest Revenue-Generating Products
