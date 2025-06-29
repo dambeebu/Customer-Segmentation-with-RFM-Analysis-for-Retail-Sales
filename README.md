@@ -74,26 +74,32 @@ Below are the main visualizations generated in this analysis. You can include im
 
 ### 1. Top 10 Products by Quantity Sold
 ![Top 10 Products by Quantity Sold](images/Top_10_products_by_quantity_sold.png)
+
 *This bar chart shows the products with the highest sales volume. It helps identify your most popular items by quantity.*
 
 ### 2. Top 10 Highest Revenue-Generating Products
 ![Top 10 Revenue Products](images/Top_10_highest_revenue-generating_products.png)
+
 *This bar chart highlights the products that generate the most revenue, which may differ from those with the highest quantity sold.*
 
 ### 3. Sales Trend by Month
-![Sales Trend by Month](images/Sales_Trend_per_Month.png)
+![Sales Trend by Month](images/Sales_Trend_Per_Month.png)
+
 *This line plot displays total sales for each month, revealing seasonality, growth, or dips in sales over time.*
 
-### 6. Revenue Generated per Country
+### 4. Revenue Generated per Country
 ![Revenue per Country](images/Top_10_highest_revenue_generating_countries.png)
+
 *This bar chart displays total revenue by country, helping you identify your most valuable geographic markets.*
 
-### 7. RFM Clusters Pair Plot
+### 5. RFM Clusters Pair Plot
 ![RFM Clusters Pair Plot](images/RFM_Clusters_Pair_Plot.png)
+
 *This pair plot visualizes the distribution and separation of customer clusters based on Recency, Frequency, and Monetary values.*
 
-### 8. RFM Clusters PCA Scatter Plot
+### 6. RFM Clusters PCA Scatter Plot
 ![RFM Clusters PCA](images/PCA_plot.png)
+
 *This scatter plot uses PCA to reduce RFM features to two dimensions, making it easy to see how customer clusters are separated.*
 
 
