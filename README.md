@@ -73,44 +73,29 @@ This project analyzes an online retail dataset to extract business insights, cle
 Below are the main visualizations generated in this analysis. You can include images (screenshots or saved plots) in your GitHub README by uploading them to your repository and referencing their paths, or by using external image links.
 
 ### 1. Top 10 Products by Quantity Sold
-![Top 10 Products by Quantity Sold]([Top_10_products_quantity.png](https://github.com/dambeebu/Customer-Segmentation-with-RFM-Analysis-for-Retail-Sales/blob/main/Top%2010%20products%20by%20quantity%20sold.png))
+![Top 10 Products by Quantity Sold](images/Top 10 products by quantity sold.png)
 *This bar chart shows the products with the highest sales volume. It helps identify your most popular items by quantity.*
 
 ### 2. Top 10 Highest Revenue-Generating Products
-![Top 10 Revenue Products](images/top_10_products_revenue.png)
+![Top 10 Revenue Products](images/Top_10_highest revenue-generating products.png)
 *This bar chart highlights the products that generate the most revenue, which may differ from those with the highest quantity sold.*
 
 ### 3. Sales Trend by Month
-![Sales Trend by Month](images/sales_trend_month.png)
+![Sales Trend by Month](images/Sales Trend per Month.png)
 *This line plot displays total sales for each month, revealing seasonality, growth, or dips in sales over time.*
 
-### 4. Scatter Plot of UnitPrice vs Quantity
-![UnitPrice vs Quantity](images/unitprice_vs_quantity.png)
-*This scatter plot visualizes the relationship between product price and quantity purchased per transaction. It helps spot outliers and understand purchasing patterns.*
-
-### 5. Number of Purchases per Country
-![Purchases per Country](images/purchases_per_country.png)
-*This bar chart shows the number of unique purchases (invoices) from each country, highlighting your most active markets.*
-
 ### 6. Revenue Generated per Country
-![Revenue per Country](images/revenue_per_country.png)
+![Revenue per Country](images/Top 10 highest revenue generating countries.png)
 *This bar chart displays total revenue by country, helping you identify your most valuable geographic markets.*
 
 ### 7. RFM Clusters Pair Plot
-![RFM Clusters Pair Plot](images/rfm_pairplot.png)
+![RFM Clusters Pair Plot](images/RFM Clusters Pair Plot.png)
 *This pair plot visualizes the distribution and separation of customer clusters based on Recency, Frequency, and Monetary values.*
 
 ### 8. RFM Clusters PCA Scatter Plot
-![RFM Clusters PCA](images/rfm_pca.png)
+![RFM Clusters PCA](images/PCA plot.png)
 *This scatter plot uses PCA to reduce RFM features to two dimensions, making it easy to see how customer clusters are separated.*
 
----
-
-> **Note:**
-> - To display these images on GitHub, save your plots as PNG files (e.g., using `plt.savefig('images/plot_name.png')`) and upload them to an `images` folder in your repository.
-> - The explanations below each image help viewers quickly understand the business insight each chart provides.
-
----
 
 ## Business Value
 This analysis helps the business:
@@ -119,7 +104,3 @@ This analysis helps the business:
 - Segment customers for targeted marketing and retention strategies.
 - Visualize and interpret customer behavior for data-driven decision making.
 
----
-
-## Author
-Generated with the help of GitHub Copilot and Python data science libraries.
